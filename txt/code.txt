@@ -1,0 +1,4 @@
+Dans routes.yaml (méthode) :
+home2:
+    path: /
+    controller: App\Controller\HomeController::index
