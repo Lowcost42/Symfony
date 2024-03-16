@@ -1,0 +1,5 @@
+Sert à lancer le serveur
+php -S localhost:8000 -t public
+
+Sert à créer un nouveau controller nommé HomeController
+php bin/console make:controller HomeController
